@@ -4,4 +4,4 @@ We developed a pipeline to assess the performance of GEMMA biomarkers in disting
 
 Release: with the publication of articles by the GEMMA Consortium.
 
-![Workflow](GEMMA_CNR_biomarkers_classification.png)
+<img src="GEMMA_CNR_biomarkers_classification.png">
